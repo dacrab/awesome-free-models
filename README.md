@@ -220,7 +220,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 - [Swarms](https://github.com/kyegomez/swarms) — Enterprise-grade multi-agent orchestration framework. Scalable infrastructure for autonomous agent swarms. Highly modular.
 - [Letta (MemGPT)](https://github.com/letta-ai/letta) — Framework for long-term agent memory. Virtual memory management that pages data in/out of context like an OS. Persistent agents.
 - [Griptape](https://github.com/griptape-ai/griptape) — Enterprise agent framework with strictly typed Pipelines, Workflows, and Agents. Structure-first, production-ready.
-- [OpenAI Swarm](https://github.com/openai/swarm) — Experimental lightweight multi-agent orchestration. Uses Agents and Handoffs abstractions. Educational and minimalist. [GitHub](https://github.com/openai/swarm)
+- [OpenAI Swarm](https://github.com/openai/swarm) — Experimental lightweight multi-agent orchestration. Uses Agents and Handoffs abstractions. Educational and minimalist.
 - [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents) — Framework inspired by Atomic Design. Compose agents from small, reusable, modular components. Testable and scalable.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) — Low-code multi-agent framework. Define agent roles, tasks, and flows via YAML configuration. Wraps underlying agent frameworks.
 - [Cognee](https://github.com/topoteretes/cognee) — GraphRAG framework for agent knowledge management. Builds interconnected knowledge graphs from unstructured data.
