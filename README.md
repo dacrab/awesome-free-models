@@ -75,7 +75,7 @@ Providers offering free tiers to access models via API — no local hardware req
 
 | Name | Description |
 |------|-------------|
-| [Google AI Studio](https://aistudio.google.com/) | **Most generous free tier.** Access Gemini 2.5 Flash, Gemini 2.0 Flash, and other models. Generous rate limits for prototyping. |
+| [Google AI Studio](https://aistudio.google.com/) | **Most generous free tier.** Access Gemini 3.5 Flash, Gemini 3.1 Pro, Gemini 3.1 Flash-Lite, and other models. Generous rate limits for prototyping. |
 | [OpenRouter](https://openrouter.ai/) | Aggregates 500+ models. Filter by "Free" to see models available at no cost. Includes experimental and subsidized open-weight models. |
 | [Groq](https://console.groq.com/) | Ultra-fast inference. Free tier includes Llama, Gemma, Mixtral, Whisper models with generous daily rate limits. |
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | Free tier for thousands of community models. Rate-limited but excellent for testing. |
@@ -85,28 +85,28 @@ Providers offering free tiers to access models via API — no local hardware req
 | [SiliconFlow](https://siliconflow.cn/) | Rising platform with free access to many open-source models. |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | Free tier for running select open-source models at the edge. |
 | [Replicate](https://replicate.com/) | Free tier with limited credits for running open-source models. |
-| [Poe (Quora)](https://poe.com/) | Free tier with daily credits for GPT-4 mini, Claude instant, and community bots. |
+| [Poe (Quora)](https://poe.com/) | Free tier with daily credits for GPT-5.4 mini, Claude Sonnet 4.6, and community bots. |
 | [CatGPT](https://www.catgpt.cc/) | Completely free chat with multiple models, no login required. ⚠️ Currently unreachable (SSL cert expired as of June 2026). |
-| [Cerebras](https://cloud.cerebras.ai/) | **1M tokens/day free**, no credit card. Ultra-fast inference on WSE chips. Access Llama 3.3 70B, GPT-OSS 120B, Qwen 3, and more via OpenAI-compatible API. |
+| [Cerebras](https://cloud.cerebras.ai/) | **1M tokens/day free**, no credit card. Ultra-fast inference on WSE chips. Access Llama 4, GPT-OSS 120B, Qwen 3.6, and more via OpenAI-compatible API. |
 | [Qwen Chat (Alibaba)](https://chat.qwen.ai/) | Free access to Qwen 3.6-Plus, Qwen 3.6-Max, and other Qwen models via web chat and API. 1M token context for agentic coding. |
 | [Ollama Cloud](https://ollama.com/cloud) | Free tier for running open-source models on Ollama's cloud infrastructure. Light usage included, 1 concurrent model. Same `ollama run` command as local. Zero data retention. |
-| [OpenAI API](https://platform.openai.com/) | **~$5 trial credits** for new API accounts. Access GPT-4o, GPT-4.1, o3, and more. Rate-limited free tier available after credits expire. |
-| [Mistral AI (La Plateforme)](https://mistral.ai/) | Free API tier with access to Mistral Large, Mistral Nemo, Codestral and more. 1 req/s, 500k tokens/min. Requires phone verification and data usage opt-in. |
-| [Cohere](https://cohere.com/) | Free evaluation API key for Command R, Command R+, Embed, and Rerank models. 20 req/min, 1,000 req/month. |
+| [OpenAI API](https://platform.openai.com/) | **~$5 trial credits** for new API accounts. Access GPT-5.5, GPT-5.4, GPT-5.4 mini, and more. Rate-limited free tier available after credits expire. |
+| [Mistral AI (La Plateforme)](https://mistral.ai/) | Free API tier with access to Mistral Large 3, Mistral Medium 3.5, Mistral Small 4, Codestral and more. 1 req/s, 500k tokens/min. Requires phone verification and data usage opt-in. |
+| [Cohere](https://cohere.com/) | Free evaluation API key for Command A+, Command R, Command R+, Embed, and Rerank models. 20 req/min, 1,000 req/month. |
 | [DeepSeek Platform](https://deepseek.com/) | Free API credits for new users (5M tokens). Access to DeepSeek V4, DeepSeek-R1, and other models. Generous free allocation. |
-| [GitHub Models](https://github.com/marketplace/models) | Free tier for GitHub users. Access GPT-4o, Llama 3.3, Mistral, and more with rate-limited playground and API. |
+| [GitHub Models](https://github.com/marketplace/models) | Free tier for GitHub users. Access GPT-5.5, Llama 4, Mistral, and more with rate-limited playground and API. |
 | [Hyperbolic](https://hyperbolic.xyz/) | Open-access AI cloud with affordable inference. **No standalone free tier** — free credits available via referral program ($5 for referrer, $6 for referee when referee deposits $5+). Supports Llama, Qwen, DeepSeek, and more. |
 | [Novita AI](https://novita.ai/) | $0.50 free credits for testing 100+ models including Llama, Qwen, DeepSeek, and Mistral. OpenAI-compatible API. |
-| [Anakin.ai](https://anakin.ai/) | **30 daily free credits** for accessing multiple AI models. Web chat interface and API access. Supports GPT-4, Claude, and open-weight models. |
-| [Anthropic (Claude API)](https://console.anthropic.com/) | **~$5 trial credits** for new API accounts. Access Claude Opus, Sonnet, and Haiku models. Phone verification required. |
+| [Anakin.ai](https://anakin.ai/) | **30 daily free credits** for accessing multiple AI models. Web chat interface and API access. Supports GPT-5.5, Claude Opus 4.8, and open-weight models. |
+| [Anthropic (Claude API)](https://console.anthropic.com/) | **~$5 trial credits** for new API accounts. Access Claude Opus 4.8, Claude Sonnet 4.6, and Claude Haiku 4.5 models. Phone verification required. |
 | [Nebius AI](https://nebius.com/) | **$100 free credits** for new users. AI Studio with access to Llama, Qwen, DeepSeek, and other open-weight models. Fast inference on NVIDIA H100 infrastructure. |
 | [Fal.ai](https://fal.ai/) | Free starter credits for AI inference. Fast, serverless platform supporting Llama, Flux, and Stable Diffusion models. Pay-as-you-go beyond free tier. |
 | [Vercel AI Gateway](https://vercel.com/ai) | **$5/month free credits** for the AI Gateway. Proxy and cache requests across multiple LLM providers. SDK is open-source and free. |
-| [AI21 Labs](https://www.ai21.com/) | **$10 trial credits** for accessing Jamba 1.5, Jamba 1.6, and other AI21 models. Valid for 3 months. Requires account sign-up. |
+| [AI21 Labs](https://www.ai21.com/) | **$10 trial credits** for accessing Jamba Large, Jamba2 Mini, Jamba2 3B, and other AI21 models. Valid for 3 months. Requires account sign-up. |
 | [Amazon Bedrock](https://aws.amazon.com/bedrock/) | **$200 AWS credits** for new customers. Access to Llama, Mistral, Claude, Titan, and other foundation models via API. |
-| [Azure AI Foundry](https://azure.microsoft.com/en-us/products/ai-foundry/) | **$200 free trial credits** (30 days). Access GPT-4o, Llama, Mistral, Phi, and other models via Azure's unified AI platform. |
-| [xAI (Grok)](https://console.x.ai/) | **$25 sign-up credits** + **$150/month** with data-sharing program. Access Grok-3, Grok-3 Mini via API. No credit card required. |
-| [ZeroLimitAI](https://www.zerolimitai.com/developers) | Free API with auto model routing to the best available free model (Gemini 2.5 Flash, Llama 4, DeepSeek R1). No credit card, drop-in OpenAI replacement. |
+| [Azure AI Foundry](https://azure.microsoft.com/en-us/products/ai-foundry/) | **$200 free trial credits** (30 days). Access GPT-5.5, Llama, Mistral, Phi, and other models via Azure's unified AI platform. |
+| [xAI (Grok)](https://console.x.ai/) | **$25 sign-up credits** + **$150/month** with data-sharing program. Access Grok 4.3, Grok Build 0.1 via API. No credit card required. |
+| [ZeroLimitAI](https://www.zerolimitai.com/developers) | Free API with auto model routing to the best available free model (Gemini 3.5 Flash, Llama 4, DeepSeek R1). No credit card, drop-in OpenAI replacement. |
 | [Stability AI](https://platform.stability.ai/) | Free API credits for image generation with Stable Diffusion and Stable Video models. Rate-limited access without credit card. |
 | [Eden AI](https://www.edenai.co/) | Free tier aggregating 100+ models from multiple providers via a single API key. Unified interface for text, image, and code generation. No credit card. |
 | [RunPod](https://runpod.io/) | **$5 signup credits** (no credit card required). Deploy open-weight models on serverless GPU or dedicated pods. Supports Llama, Qwen, DeepSeek, and more. |
